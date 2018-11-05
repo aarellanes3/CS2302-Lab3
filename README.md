@@ -1,5 +1,6 @@
 # CS2302-Lab3
 This is lab 3 almost complete
+
 from BST_Node import BinarySearchTree
 from BST_Node import Node
 from Avl_TreeNode import AvlNode
